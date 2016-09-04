@@ -1,0 +1,17 @@
+{application, 'cowboy-coding',
+ [{description, "An LFE Application"},
+  {vsn, "0.0.1"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib,
+    cowboy
+   ]},
+  {mod, {'cowboy-coding-app', []}},
+  {env, []},
+  {modules, []},
+
+  {contributors, []},
+  {licenses, []},
+  {links, []}
+ ]}.
