@@ -1,14 +1,6 @@
 cowboy-coding
 ==========
 
-An LFE application
+A sample app using LFE with Rebar3 to get up and running with the simplest possible Cowboy server.
 
-## Build
-```
-$ rebar3 lfe release
-```
-
-## Test
-```
-$ rebar3 lfe test
-```
+I'll add a link to the blog post explaining the process here shortly.
